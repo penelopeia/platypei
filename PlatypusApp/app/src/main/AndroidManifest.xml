@@ -39,7 +39,8 @@
             android:value="com.platypus.platypusapp.Welcome" />
 
         <activity android:name=".Explore_home" />
-        <activity android:name=".Chat_home"></activity>
+        <activity android:name=".Chat_home" />
+        <activity android:name=".response"></activity>
     </application>
 
 </manifest>
