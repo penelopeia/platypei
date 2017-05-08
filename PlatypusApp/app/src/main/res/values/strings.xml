@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PlatypusApp</string>
+    <string name="app_name">Platypus</string>
     <string name="title_activity_login">Sign in</string>
     <string name="button_send">send</string>
 
